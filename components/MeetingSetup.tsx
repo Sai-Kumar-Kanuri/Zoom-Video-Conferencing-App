@@ -49,7 +49,7 @@ const MeetingSetup = ({ setIsSetupComplete }: { setIsSetupComplete: (value: bool
                     setIsSetupComplete(true);
                 }}
             >
-
+                Join now
             </Button>
         </div>
     )

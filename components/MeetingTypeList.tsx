@@ -109,7 +109,7 @@ const MeetingTypeList = () => {
                 handleClick={() => setMeetingState('isScheduleMeeting')}
             />
             <HomeCard
-                img="/icons/video.svg"
+                img="/icons/Video.svg"
                 title="View Recordings"
                 description="Meeting recordings"
                 classname="bg-yellow-1"

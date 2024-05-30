@@ -6,7 +6,7 @@
 ## Preview 🎬
 <div align="center">
     <br />
-        <img src="/images/Screenshot-1.png" alt="Project Banner">
+        <img src="/public/images/Screenshot-1.png" alt="Project Banner">
     <br />
     
    <p align="center">

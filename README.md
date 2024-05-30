@@ -6,7 +6,7 @@
 ## Preview 🎬
 <div align="center">
     <br />
-        <img src="/images/Screenshot-1" alt="Project Banner">
+        <img src="/images/Screenshot-1.png" alt="Project Banner">
     <br />
     
    <p align="center">
@@ -100,4 +100,3 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
